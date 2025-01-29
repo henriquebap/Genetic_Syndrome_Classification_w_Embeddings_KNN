@@ -142,8 +142,8 @@ pip install --upgrade numpy
 ### 1️⃣ Clonar o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/genetic-syndrome-classification.git
-cd genetic-syndrome-classification
+git clone https://github.com/henriquebap/Genetic_Syndrome_Classification_w_Embeddings_KNN
+cd Genetic_Syndrome_Classification_w_Embeddings_KNN
 ```
 
 ### 2️⃣ Instalar as dependências:
